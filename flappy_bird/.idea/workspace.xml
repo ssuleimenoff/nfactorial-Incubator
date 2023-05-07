@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="246ba207-70fb-4dff-92e9-28fa77e23731" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PP2PG/.idea/PP2PG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2PG/aizhan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2PG/aizhan1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2PG/an_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP2PG/getting started.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another_ex/.idea/another_ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another_ex/date/.idea/date.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../another_ex/json/.idea/json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../conqueror/.idea/conqueror.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../conqueror/fresh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finally/postgreSQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jakupov_snake/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justsamplesofpy/.idea/justsamplesofpy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../justsamplesofpy/dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kelgenbaev_hours/..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kelgenbaev_hours/.idea/kelgenbaev_hours.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kelgenbaev_hours/iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kelgenbaev_hours/telegram_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../last_def/tsis11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lostedideas/.idea/lostedideas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lostedideas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lostedideas/week7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_snake/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/sample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/.idea/stepikprogress.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/RegEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/first_week_quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/input_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/just_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/just_smaple2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/logic_oper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/math1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/min_max_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/oper_with_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/oper_with_real_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/rotated _triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stepikprogress/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegabot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegabot/.idea/telegabot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegabot/advanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegabot/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegabot/weather_forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegabot/workwithsqlite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis1/.idea/tsis_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/.idea/tsis10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/.idea/snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/Blessed.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/body_bl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/body_br.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/body_hr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/body_tl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/body_tr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/body_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/body_vrt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/head_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/head_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/head_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/munch.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/tail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/tail_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/tail_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/tail_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/assets/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/cobble4040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/food1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/food2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/food3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/snakehead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/walls2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10/snake/walls3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis100/.idea/tsis10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis100/snake_/.idea/snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis10_/.idea/tsis10_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis11/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/.idea/tsis2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/deffunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/deflmabdas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/defmyclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/for_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/gpa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/sample1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/sample11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/task12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis2/while_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/.idea/tsis3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/.idea/classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/classes1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/classes2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/classes3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/classes4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/classes5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/classes6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/classes/qsmpl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/smth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/stepik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/stepik1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/taks14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions1/task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions2/fundict1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions2/fundict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions2/fundict3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions2/fundict4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions2/fundict5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis3/functions2/fundict6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis5/.idea/tsis5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis5/justsample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis5/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis6/.idea/tsis6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis6/built_funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis6/dir_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis6/quickly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis7/clock/mickey_clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis7/music_player/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis7/music_player/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis7/red_ball/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis8/.idea/tsis8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis8/paint/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis8/racer/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis8/snake/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis8/snake/zhasmin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis9/.idea/tsis9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis9/paint/.idea/paint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis9/paint/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis9/racer/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis9/racer/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis9/racer/sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis_4/.idea/tsis4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis_4/date/.idea/date.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis_4/generators/gen5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsis_4/json/.idea/json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/.idea/week3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/lasttask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3/w4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhasmin/.idea/zhasmin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhasmin/fresh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zhasmin/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../global.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../global1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strings.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PQl2j3EvbBK9RkRDu8kfhxD4xR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/pythoncodes/flappy_bird&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flappy_bird" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="flappy_bird" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flappy_bird" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="246ba207-70fb-4dff-92e9-28fa77e23731" name="Changes" comment="" />
+      <created>1683396980913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683396980913</updated>
+      <workItem from="1683396982039" duration="10817000" />
+      <workItem from="1683407915778" duration="8741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flappy_bird$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1683467950109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/flappy_bird$main.coverage" NAME="main Coverage Results" MODIFIED="1683402163135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flappy_bird$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1683439132720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>
